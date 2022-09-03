@@ -1,6 +1,6 @@
 # basenorm
 
-A baseline method for entity normalization.
+A baseline method using BERT for entity normalization.
 
 # Need dependencies:
 - nltk (conda)
